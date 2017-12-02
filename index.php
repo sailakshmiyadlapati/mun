@@ -6,5 +6,7 @@ include("includes/connection.php");
 
 ?>
 <html>
-A Mun website
+<body>
+A Mun of SNIST
+</body>
 </html>
