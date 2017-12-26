@@ -106,7 +106,7 @@ http://www.templatemo.com/tm-486-new-event
 
 
 
--->
+
 <!-- Back top -->
 <a href="#back-top" class="go-top"><i class="fa fa-angle-up"></i></a>
 
